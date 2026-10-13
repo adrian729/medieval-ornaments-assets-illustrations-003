@@ -1,0 +1,5136 @@
+[
+  {
+    "description": "A white-robed winged angel pursues a black horned devil in a blue-sky and green-tree landscape, within the original gold oval miniature. Part of the Office of the Dead angel and devil set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "angel",
+      "devil",
+      "wing",
+      "staff",
+      "tree"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "white",
+      "red",
+      "black",
+      "gold",
+      "blue",
+      "green"
+    ],
+    "composition": "framed-scene",
+    "name": "angel-chasing-devil-in-gold-oval",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-a",
+    "png": "png/angel-chasing-devil-in-gold-oval.png",
+    "webp": "webp/angel-chasing-devil-in-gold-oval.webp",
+    "width": 823,
+    "height": 828,
+    "png_bytes": 984149,
+    "webp_bytes": 624288,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/angel-chasing-devil-in-gold-oval.png",
+        "webp": "webp/128/angel-chasing-devil-in-gold-oval.webp",
+        "width": 127,
+        "height": 128,
+        "png_bytes": 33353,
+        "webp_bytes": 25754
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/angel-chasing-devil-in-gold-oval.png",
+        "webp": "webp/256/angel-chasing-devil-in-gold-oval.webp",
+        "width": 254,
+        "height": 256,
+        "png_bytes": 111083,
+        "webp_bytes": 78980
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/angel-chasing-devil-in-gold-oval.png",
+        "webp": "webp/512/angel-chasing-devil-in-gold-oval.webp",
+        "width": 509,
+        "height": 512,
+        "png_bytes": 352256,
+        "webp_bytes": 229558
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/angel-chasing-devil-in-gold-oval.png",
+        "webp": "webp/768/angel-chasing-devil-in-gold-oval.webp",
+        "width": 763,
+        "height": 768,
+        "png_bytes": 693208,
+        "webp_bytes": 467330
+      }
+    ],
+    "derivation": "ai-assisted-source-mask",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+      "object_identifier": "2005.206.a",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+      "method": "ai-assisted-source-mask",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-a-set",
+        "name": "Office of the Dead angel and devil"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3635,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 828,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A bearded man’s head in left-facing profile, with long ochre hair, a hoop earring and pale collar; the decorated initial and panel are excluded. Part of the Office of the Dead angel and devil set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "person",
+      "head",
+      "beard",
+      "earring"
+    ],
+    "facing": "left",
+    "colors": [
+      "brown",
+      "cream",
+      "gold"
+    ],
+    "composition": "single-figure",
+    "name": "bearded-profile-head",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-a",
+    "png": "png/bearded-profile-head.png",
+    "webp": "webp/bearded-profile-head.webp",
+    "width": 301,
+    "height": 247,
+    "png_bytes": 113595,
+    "webp_bytes": 76300,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/bearded-profile-head.png",
+        "webp": "webp/128/bearded-profile-head.webp",
+        "width": 128,
+        "height": 105,
+        "png_bytes": 23774,
+        "webp_bytes": 17232
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/bearded-profile-head.png",
+        "webp": "webp/256/bearded-profile-head.webp",
+        "width": 256,
+        "height": 210,
+        "png_bytes": 83914,
+        "webp_bytes": 58670
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+      "object_identifier": "2005.206.a",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-a-set",
+        "name": "Office of the Dead angel and devil"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3635,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 301,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A black horned devil with gold facial and body strokes runs with one arm extended and a slender curved tail. Part of the Office of the Dead angel and devil set.",
+    "categories": [
+      "fantasy"
+    ],
+    "subjects": [
+      "devil",
+      "horn",
+      "tail"
+    ],
+    "facing": "left",
+    "colors": [
+      "black",
+      "gold"
+    ],
+    "composition": "single-figure",
+    "name": "black-horned-devil",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-a",
+    "png": "png/black-horned-devil.png",
+    "webp": "webp/black-horned-devil.webp",
+    "width": 343,
+    "height": 643,
+    "png_bytes": 148294,
+    "webp_bytes": 95906,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/black-horned-devil.png",
+        "webp": "webp/128/black-horned-devil.webp",
+        "width": 68,
+        "height": 128,
+        "png_bytes": 11884,
+        "webp_bytes": 9064
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/black-horned-devil.png",
+        "webp": "webp/256/black-horned-devil.webp",
+        "width": 137,
+        "height": 256,
+        "png_bytes": 34727,
+        "webp_bytes": 25596
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/black-horned-devil.png",
+        "webp": "webp/512/black-horned-devil.webp",
+        "width": 273,
+        "height": 512,
+        "png_bytes": 105946,
+        "webp_bytes": 76302
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+      "object_identifier": "2005.206.a",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-a-set",
+        "name": "Office of the Dead angel and devil"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3635,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 643,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A sideways blue and pink bud with a curved green stem and two leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "blue-and-pink-bud-with-two-green-leaves",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/blue-and-pink-bud-with-two-green-leaves.png",
+    "webp": "webp/blue-and-pink-bud-with-two-green-leaves.webp",
+    "width": 1468,
+    "height": 606,
+    "png_bytes": 866981,
+    "webp_bytes": 638316,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/blue-and-pink-bud-with-two-green-leaves.png",
+        "webp": "webp/128/blue-and-pink-bud-with-two-green-leaves.webp",
+        "width": 128,
+        "height": 53,
+        "png_bytes": 11503,
+        "webp_bytes": 9680
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/blue-and-pink-bud-with-two-green-leaves.png",
+        "webp": "webp/256/blue-and-pink-bud-with-two-green-leaves.webp",
+        "width": 256,
+        "height": 106,
+        "png_bytes": 37165,
+        "webp_bytes": 29816
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/blue-and-pink-bud-with-two-green-leaves.png",
+        "webp": "webp/512/blue-and-pink-bud-with-two-green-leaves.webp",
+        "width": 512,
+        "height": 211,
+        "png_bytes": 127921,
+        "webp_bytes": 97914
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/blue-and-pink-bud-with-two-green-leaves.png",
+        "webp": "webp/768/blue-and-pink-bud-with-two-green-leaves.webp",
+        "width": 768,
+        "height": 317,
+        "png_bytes": 269110,
+        "webp_bytes": 202246
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 1468,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A blue-clad man with both hands raised to an ornamental stem. Part of the Latin Bible Paul and foliate initials set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "man"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "orange",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "blue-clad-man-pulling-ornamental-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-53",
+    "png": "png/blue-clad-man-pulling-ornamental-stem.png",
+    "webp": "webp/blue-clad-man-pulling-ornamental-stem.webp",
+    "width": 531,
+    "height": 1020,
+    "png_bytes": 621075,
+    "webp_bytes": 444130,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/blue-clad-man-pulling-ornamental-stem.png",
+        "webp": "webp/128/blue-clad-man-pulling-ornamental-stem.webp",
+        "width": 67,
+        "height": 128,
+        "png_bytes": 14988,
+        "webp_bytes": 12354
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/blue-clad-man-pulling-ornamental-stem.png",
+        "webp": "webp/256/blue-clad-man-pulling-ornamental-stem.webp",
+        "width": 133,
+        "height": 256,
+        "png_bytes": 50400,
+        "webp_bytes": 37814
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/blue-clad-man-pulling-ornamental-stem.png",
+        "webp": "webp/512/blue-clad-man-pulling-ornamental-stem.webp",
+        "width": 267,
+        "height": 512,
+        "png_bytes": 175303,
+        "webp_bytes": 126824
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/blue-clad-man-pulling-ornamental-stem.png",
+        "webp": "webp/768/blue-clad-man-pulling-ornamental-stem.webp",
+        "width": 400,
+        "height": 768,
+        "png_bytes": 371558,
+        "webp_bytes": 269332
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+      "object_identifier": "2011.53",
+      "date": "c. 1230–40",
+      "artist": "William de Brailes (English, active c. 1230)",
+      "record_url": "https://clevelandart.org/art/2011.53",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2011-53-set",
+        "name": "Latin Bible Paul and foliate initials"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5219,
+      "height": 7176
+    },
+    "master_longest_dimension_cap": 1020,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A stylized radial flower with blue curled side petals, red base and gray central crown. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "blue-red-and-gray-radial-flower",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/blue-red-and-gray-radial-flower.png",
+    "webp": "webp/blue-red-and-gray-radial-flower.webp",
+    "width": 1346,
+    "height": 1088,
+    "png_bytes": 2461277,
+    "webp_bytes": 1753298,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/blue-red-and-gray-radial-flower.png",
+        "webp": "webp/128/blue-red-and-gray-radial-flower.webp",
+        "width": 128,
+        "height": 103,
+        "png_bytes": 30097,
+        "webp_bytes": 23182
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/blue-red-and-gray-radial-flower.png",
+        "webp": "webp/256/blue-red-and-gray-radial-flower.webp",
+        "width": 256,
+        "height": 207,
+        "png_bytes": 107846,
+        "webp_bytes": 80170
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/blue-red-and-gray-radial-flower.png",
+        "webp": "webp/512/blue-red-and-gray-radial-flower.webp",
+        "width": 512,
+        "height": 414,
+        "png_bytes": 394576,
+        "webp_bytes": 285196
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/blue-red-and-gray-radial-flower.png",
+        "webp": "webp/768/blue-red-and-gray-radial-flower.webp",
+        "width": 768,
+        "height": 621,
+        "png_bytes": 852561,
+        "webp_bytes": 628714
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 1346,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A broad green leaf scroll with long connecting branches and curled basal leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "scrollwork"
+    ],
+    "subjects": [
+      "leaf",
+      "scroll",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "broad-green-leaf-scroll",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/broad-green-leaf-scroll.png",
+    "webp": "webp/broad-green-leaf-scroll.webp",
+    "width": 1594,
+    "height": 947,
+    "png_bytes": 1482225,
+    "webp_bytes": 1080198,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/broad-green-leaf-scroll.png",
+        "webp": "webp/128/broad-green-leaf-scroll.webp",
+        "width": 128,
+        "height": 76,
+        "png_bytes": 16430,
+        "webp_bytes": 13950
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/broad-green-leaf-scroll.png",
+        "webp": "webp/256/broad-green-leaf-scroll.webp",
+        "width": 256,
+        "height": 152,
+        "png_bytes": 55154,
+        "webp_bytes": 47060
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/broad-green-leaf-scroll.png",
+        "webp": "webp/512/broad-green-leaf-scroll.webp",
+        "width": 512,
+        "height": 304,
+        "png_bytes": 185355,
+        "webp_bytes": 139824
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/broad-green-leaf-scroll.png",
+        "webp": "webp/768/broad-green-leaf-scroll.webp",
+        "width": 768,
+        "height": 456,
+        "png_bytes": 388340,
+        "webp_bytes": 291672
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original botanical entity from the lower border. Expanded original input includes complete source-visible contours; no invented overlap-hidden parts. AI-assisted extraction with exact prompt, native bounds/cap and source retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 1594,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Brown fan-shaped flower with green leaves and a smaller red bud on a curling branch. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "green",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "brown-fan-flower-with-curled-green-leaf-branch",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-b",
+    "png": "png/brown-fan-flower-with-curled-green-leaf-branch.png",
+    "webp": "webp/brown-fan-flower-with-curled-green-leaf-branch.webp",
+    "width": 768,
+    "height": 1994,
+    "png_bytes": 1698097,
+    "webp_bytes": 1206052,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/brown-fan-flower-with-curled-green-leaf-branch.png",
+        "webp": "webp/128/brown-fan-flower-with-curled-green-leaf-branch.webp",
+        "width": 49,
+        "height": 128,
+        "png_bytes": 14163,
+        "webp_bytes": 11574
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/brown-fan-flower-with-curled-green-leaf-branch.png",
+        "webp": "webp/256/brown-fan-flower-with-curled-green-leaf-branch.webp",
+        "width": 99,
+        "height": 256,
+        "png_bytes": 44707,
+        "webp_bytes": 36822
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/brown-fan-flower-with-curled-green-leaf-branch.png",
+        "webp": "webp/512/brown-fan-flower-with-curled-green-leaf-branch.webp",
+        "width": 197,
+        "height": 512,
+        "png_bytes": 145789,
+        "webp_bytes": 110226
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/brown-fan-flower-with-curled-green-leaf-branch.png",
+        "webp": "webp/768/brown-fan-flower-with-curled-green-leaf-branch.webp",
+        "width": 296,
+        "height": 768,
+        "png_bytes": 299576,
+        "webp_bytes": 223980
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)",
+      "object_identifier": "2006.15.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso) (cma-2006-15-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9018,
+      "height": 10773
+    },
+    "master_longest_dimension_cap": 1994,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Christ carrying a wooden cross with a contacting procession of soldiers and holy figures.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "christ",
+      "cross",
+      "soldier",
+      "halo",
+      "rope",
+      "procession"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "tan",
+      "purple",
+      "gold",
+      "gray",
+      "cream"
+    ],
+    "composition": "multiple-figures",
+    "name": "christ-carrying-cross-with-contacting-procession",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-127",
+    "png": "png/christ-carrying-cross-with-contacting-procession.png",
+    "webp": "webp/christ-carrying-cross-with-contacting-procession.webp",
+    "width": 1272,
+    "height": 1201,
+    "png_bytes": 2360969,
+    "webp_bytes": 1728794,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/christ-carrying-cross-with-contacting-procession.png",
+        "webp": "webp/128/christ-carrying-cross-with-contacting-procession.webp",
+        "width": 128,
+        "height": 121,
+        "png_bytes": 36105,
+        "webp_bytes": 29206
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/christ-carrying-cross-with-contacting-procession.png",
+        "webp": "webp/256/christ-carrying-cross-with-contacting-procession.webp",
+        "width": 256,
+        "height": 242,
+        "png_bytes": 123557,
+        "webp_bytes": 94906
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/christ-carrying-cross-with-contacting-procession.png",
+        "webp": "webp/512/christ-carrying-cross-with-contacting-procession.webp",
+        "width": 512,
+        "height": 483,
+        "png_bytes": 436769,
+        "webp_bytes": 329464
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/christ-carrying-cross-with-contacting-procession.png",
+        "webp": "webp/768/christ-carrying-cross-with-contacting-procession.webp",
+        "width": 768,
+        "height": 725,
+        "png_bytes": 935770,
+        "webp_bytes": 686902
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Christ Carrying the Cross (Sext, Hours of the Cross)",
+      "object_identifier": "1999.127",
+      "date": "c. 1410–1420",
+      "record_url": "https://clevelandart.org/art/1999.127",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "13ef7537ef75b004a842d531fefbf1aa807d2cee0c42f4d64223a56c32ce5824",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.127/1999.127_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5472,
+      "height": 7634
+    },
+    "master_longest_dimension_cap": 1272,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A cook with a raised ladle, dish and a soup cauldron on their shared small ground. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "cook",
+      "ladle",
+      "dish",
+      "cauldron"
+    ],
+    "facing": "right",
+    "colors": [
+      "cream",
+      "red",
+      "brown",
+      "black"
+    ],
+    "composition": "framed-scene",
+    "name": "cook-with-ladle-dish-and-soup-cauldron",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/cook-with-ladle-dish-and-soup-cauldron.png",
+    "webp": "webp/cook-with-ladle-dish-and-soup-cauldron.webp",
+    "width": 1013,
+    "height": 1373,
+    "png_bytes": 1903900,
+    "webp_bytes": 1300080,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/cook-with-ladle-dish-and-soup-cauldron.png",
+        "webp": "webp/128/cook-with-ladle-dish-and-soup-cauldron.webp",
+        "width": 94,
+        "height": 128,
+        "png_bytes": 24235,
+        "webp_bytes": 18258
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/cook-with-ladle-dish-and-soup-cauldron.png",
+        "webp": "webp/256/cook-with-ladle-dish-and-soup-cauldron.webp",
+        "width": 189,
+        "height": 256,
+        "png_bytes": 83962,
+        "webp_bytes": 59092
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/cook-with-ladle-dish-and-soup-cauldron.png",
+        "webp": "webp/512/cook-with-ladle-dish-and-soup-cauldron.webp",
+        "width": 378,
+        "height": 512,
+        "png_bytes": 301262,
+        "webp_bytes": 208854
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/cook-with-ladle-dish-and-soup-cauldron.png",
+        "webp": "webp/768/cook-with-ladle-dish-and-soup-cauldron.webp",
+        "width": 567,
+        "height": 768,
+        "png_bytes": 650205,
+        "webp_bytes": 451706
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 1373,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The coronation of Mary with Christ, six angels and their shared architectural throne. Part of the Beffi Coronation frame set.",
+    "categories": [
+      "humans",
+      "royalty"
+    ],
+    "subjects": [
+      "christ",
+      "mary",
+      "throne",
+      "angel",
+      "crown",
+      "halo"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "cream",
+      "gray",
+      "gold"
+    ],
+    "composition": "multiple-figures",
+    "name": "coronation-of-mary-with-six-angels-and-throne",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1953-24",
+    "png": "png/coronation-of-mary-with-six-angels-and-throne.png",
+    "webp": "webp/coronation-of-mary-with-six-angels-and-throne.webp",
+    "width": 1171,
+    "height": 1322,
+    "png_bytes": 2308583,
+    "webp_bytes": 1655764,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/coronation-of-mary-with-six-angels-and-throne.png",
+        "webp": "webp/128/coronation-of-mary-with-six-angels-and-throne.webp",
+        "width": 113,
+        "height": 128,
+        "png_bytes": 33263,
+        "webp_bytes": 27172
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/coronation-of-mary-with-six-angels-and-throne.png",
+        "webp": "webp/256/coronation-of-mary-with-six-angels-and-throne.webp",
+        "width": 227,
+        "height": 256,
+        "png_bytes": 117911,
+        "webp_bytes": 89724
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/coronation-of-mary-with-six-angels-and-throne.png",
+        "webp": "webp/512/coronation-of-mary-with-six-angels-and-throne.webp",
+        "width": 454,
+        "height": 512,
+        "png_bytes": 415229,
+        "webp_bytes": 306146
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/coronation-of-mary-with-six-angels-and-throne.png",
+        "webp": "webp/768/coronation-of-mary-with-six-angels-and-throne.webp",
+        "width": 680,
+        "height": 768,
+        "png_bytes": 871651,
+        "webp_bytes": 625948
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from an Antiphonary: Coronation of the Virgin",
+      "object_identifier": "1953.24",
+      "date": "1400s",
+      "artist": "Master of the Beffi Triptych (Italian, active 1390–1425)",
+      "record_url": "https://clevelandart.org/art/1953.24",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "fad2ff0aae45fd22d3d36c015cd0c4f75c0f59fa1863d74927aea79a725b0b6f",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1953.24/1953.24_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-1953-24-set",
+        "name": "Beffi Coronation frame"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4595,
+      "height": 6459
+    },
+    "master_longest_dimension_cap": 1322,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two gray-blue leaves on a short crossed stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "crossed-gray-blue-leaf-pair",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/crossed-gray-blue-leaf-pair.png",
+    "webp": "webp/crossed-gray-blue-leaf-pair.webp",
+    "width": 449,
+    "height": 1183,
+    "png_bytes": 547289,
+    "webp_bytes": 378998,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crossed-gray-blue-leaf-pair.png",
+        "webp": "webp/128/crossed-gray-blue-leaf-pair.webp",
+        "width": 49,
+        "height": 128,
+        "png_bytes": 10251,
+        "webp_bytes": 7974
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crossed-gray-blue-leaf-pair.png",
+        "webp": "webp/256/crossed-gray-blue-leaf-pair.webp",
+        "width": 97,
+        "height": 256,
+        "png_bytes": 33232,
+        "webp_bytes": 25638
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crossed-gray-blue-leaf-pair.png",
+        "webp": "webp/512/crossed-gray-blue-leaf-pair.webp",
+        "width": 194,
+        "height": 512,
+        "png_bytes": 116265,
+        "webp_bytes": 80668
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/crossed-gray-blue-leaf-pair.png",
+        "webp": "webp/768/crossed-gray-blue-leaf-pair.webp",
+        "width": 291,
+        "height": 768,
+        "png_bytes": 248226,
+        "webp_bytes": 172106
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 1183,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Crouching brown hairy figure facing right and holding a long bent implement. Part of the Ape Fishing pond ornaments set.",
+    "categories": [
+      "fantasy"
+    ],
+    "subjects": [
+      "figure",
+      "hand",
+      "foot",
+      "implement"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "cream",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "crouching-hairy-figure-with-long-bent-implement",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-13-b",
+    "png": "png/crouching-hairy-figure-with-long-bent-implement.png",
+    "webp": "webp/crouching-hairy-figure-with-long-bent-implement.webp",
+    "width": 738,
+    "height": 666,
+    "png_bytes": 229490,
+    "webp_bytes": 146338,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crouching-hairy-figure-with-long-bent-implement.png",
+        "webp": "webp/128/crouching-hairy-figure-with-long-bent-implement.webp",
+        "width": 128,
+        "height": 116,
+        "png_bytes": 14891,
+        "webp_bytes": 11378
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crouching-hairy-figure-with-long-bent-implement.png",
+        "webp": "webp/256/crouching-hairy-figure-with-long-bent-implement.webp",
+        "width": 256,
+        "height": 231,
+        "png_bytes": 43786,
+        "webp_bytes": 33282
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crouching-hairy-figure-with-long-bent-implement.png",
+        "webp": "webp/512/crouching-hairy-figure-with-long-bent-implement.webp",
+        "width": 512,
+        "height": 462,
+        "png_bytes": 134090,
+        "webp_bytes": 93114
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+      "object_identifier": "2006.13.b",
+      "date": "c. 1500–1510",
+      "record_url": "https://clevelandart.org/art/2006.13.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2006-13-b-set",
+        "name": "Ape Fishing pond ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3538,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 738,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Diving gray and brown long-beaked waterbird with raised wings and two trailing gold legs. Part of the Ape Fishing pond ornaments set.",
+    "categories": [
+      "fantasy"
+    ],
+    "subjects": [
+      "bird",
+      "beak",
+      "wing",
+      "leg"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "brown",
+      "white",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "diving-long-beaked-waterbird",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-13-b",
+    "png": "png/diving-long-beaked-waterbird.png",
+    "webp": "webp/diving-long-beaked-waterbird.webp",
+    "width": 724,
+    "height": 588,
+    "png_bytes": 209630,
+    "webp_bytes": 135218,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/diving-long-beaked-waterbird.png",
+        "webp": "webp/128/diving-long-beaked-waterbird.webp",
+        "width": 128,
+        "height": 104,
+        "png_bytes": 13485,
+        "webp_bytes": 10514
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/diving-long-beaked-waterbird.png",
+        "webp": "webp/256/diving-long-beaked-waterbird.webp",
+        "width": 256,
+        "height": 208,
+        "png_bytes": 40396,
+        "webp_bytes": 30826
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/diving-long-beaked-waterbird.png",
+        "webp": "webp/512/diving-long-beaked-waterbird.webp",
+        "width": 512,
+        "height": 416,
+        "png_bytes": 125344,
+        "webp_bytes": 90008
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+      "object_identifier": "2006.13.b",
+      "date": "c. 1500–1510",
+      "record_url": "https://clevelandart.org/art/2006.13.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2006-13-b-set",
+        "name": "Ape Fishing pond ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3538,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 724,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A girl kneading bread at a wooden table with a basket beneath it. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "girl",
+      "bread",
+      "table",
+      "basket"
+    ],
+    "facing": "left",
+    "colors": [
+      "cream",
+      "blue",
+      "brown"
+    ],
+    "composition": "multiple-figures",
+    "name": "girl-kneading-bread-at-table-with-basket",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/girl-kneading-bread-at-table-with-basket.png",
+    "webp": "webp/girl-kneading-bread-at-table-with-basket.webp",
+    "width": 1074,
+    "height": 1345,
+    "png_bytes": 1666528,
+    "webp_bytes": 1147656,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/girl-kneading-bread-at-table-with-basket.png",
+        "webp": "webp/128/girl-kneading-bread-at-table-with-basket.webp",
+        "width": 102,
+        "height": 128,
+        "png_bytes": 22492,
+        "webp_bytes": 18368
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/girl-kneading-bread-at-table-with-basket.png",
+        "webp": "webp/256/girl-kneading-bread-at-table-with-basket.webp",
+        "width": 204,
+        "height": 256,
+        "png_bytes": 77080,
+        "webp_bytes": 53906
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/girl-kneading-bread-at-table-with-basket.png",
+        "webp": "webp/512/girl-kneading-bread-at-table-with-basket.webp",
+        "width": 409,
+        "height": 512,
+        "png_bytes": 274361,
+        "webp_bytes": 191168
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/girl-kneading-bread-at-table-with-basket.png",
+        "webp": "webp/768/girl-kneading-bread-at-table-with-basket.webp",
+        "width": 613,
+        "height": 768,
+        "png_bytes": 591730,
+        "webp_bytes": 411806
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 1345,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete original gold-ground portrait miniature of a haloed Saint Paul holding his sword and book, with the surrounding alphabetic strokes excluded. Part of the Latin Bible Paul and foliate initials set.",
+    "categories": [
+      "humans",
+      "reading"
+    ],
+    "subjects": [
+      "saint",
+      "paul",
+      "sword",
+      "book",
+      "halo",
+      "gold"
+    ],
+    "facing": "right",
+    "colors": [
+      "gold",
+      "blue",
+      "tan",
+      "red",
+      "brown"
+    ],
+    "composition": "framed-scene",
+    "name": "gold-ground-portrait-of-saint-paul-with-sword-and-book",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-53",
+    "png": "png/gold-ground-portrait-of-saint-paul-with-sword-and-book.png",
+    "webp": "webp/gold-ground-portrait-of-saint-paul-with-sword-and-book.webp",
+    "width": 446,
+    "height": 513,
+    "png_bytes": 410888,
+    "webp_bytes": 278126,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gold-ground-portrait-of-saint-paul-with-sword-and-book.png",
+        "webp": "webp/128/gold-ground-portrait-of-saint-paul-with-sword-and-book.webp",
+        "width": 111,
+        "height": 128,
+        "png_bytes": 32475,
+        "webp_bytes": 24740
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gold-ground-portrait-of-saint-paul-with-sword-and-book.png",
+        "webp": "webp/256/gold-ground-portrait-of-saint-paul-with-sword-and-book.webp",
+        "width": 223,
+        "height": 256,
+        "png_bytes": 116495,
+        "webp_bytes": 84640
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gold-ground-portrait-of-saint-paul-with-sword-and-book.png",
+        "webp": "webp/512/gold-ground-portrait-of-saint-paul-with-sword-and-book.webp",
+        "width": 445,
+        "height": 512,
+        "png_bytes": 403393,
+        "webp_bytes": 280396
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+      "object_identifier": "2011.53",
+      "date": "c. 1230–40",
+      "artist": "William de Brailes (English, active c. 1230)",
+      "record_url": "https://clevelandart.org/art/2011.53",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The complete original painted counter miniature is retained, with its actual gold/blue/tan background surfaces opaque and surrounding letter forms/writing removed. The separately supplied actors remain available. Source-visible truncated lower figures stay exactly as painted, with no invented legs or extended clothes. Native original pixels/proportions, no source upscale or vector simplification.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2011-53-set",
+        "name": "Latin Bible Paul and foliate initials"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5219,
+      "height": 7176
+    },
+    "master_longest_dimension_cap": 513,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A gray-blue flower with red center, large green leaf scroll and small basal red bud. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "gray-blue-flower-with-red-center-and-green-leaf-scroll",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/gray-blue-flower-with-red-center-and-green-leaf-scroll.png",
+    "webp": "webp/gray-blue-flower-with-red-center-and-green-leaf-scroll.webp",
+    "width": 1595,
+    "height": 954,
+    "png_bytes": 1395330,
+    "webp_bytes": 1015188,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gray-blue-flower-with-red-center-and-green-leaf-scroll.png",
+        "webp": "webp/128/gray-blue-flower-with-red-center-and-green-leaf-scroll.webp",
+        "width": 128,
+        "height": 77,
+        "png_bytes": 15467,
+        "webp_bytes": 13046
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gray-blue-flower-with-red-center-and-green-leaf-scroll.png",
+        "webp": "webp/256/gray-blue-flower-with-red-center-and-green-leaf-scroll.webp",
+        "width": 256,
+        "height": 153,
+        "png_bytes": 51114,
+        "webp_bytes": 39846
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gray-blue-flower-with-red-center-and-green-leaf-scroll.png",
+        "webp": "webp/512/gray-blue-flower-with-red-center-and-green-leaf-scroll.webp",
+        "width": 512,
+        "height": 306,
+        "png_bytes": 175467,
+        "webp_bytes": 131778
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/gray-blue-flower-with-red-center-and-green-leaf-scroll.png",
+        "webp": "webp/768/gray-blue-flower-with-red-center-and-green-leaf-scroll.webp",
+        "width": 768,
+        "height": 459,
+        "png_bytes": 369509,
+        "webp_bytes": 275918
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 1595,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original columned pond miniature with a crouching hairy hunter, bent implement and diving long-beaked bird. Part of the Ape Fishing pond ornaments set.",
+    "categories": [
+      "animals",
+      "fantasy"
+    ],
+    "subjects": [
+      "hunter",
+      "figure",
+      "bird",
+      "pond",
+      "reed",
+      "tree",
+      "column",
+      "scene"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "blue",
+      "green",
+      "gold",
+      "cream"
+    ],
+    "composition": "framed-scene",
+    "name": "hairy-hunter-and-diving-bird-in-columned-pond-scene",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-13-b",
+    "png": "png/hairy-hunter-and-diving-bird-in-columned-pond-scene.png",
+    "webp": "webp/hairy-hunter-and-diving-bird-in-columned-pond-scene.webp",
+    "width": 2702,
+    "height": 909,
+    "png_bytes": 3051402,
+    "webp_bytes": 1952110,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/hairy-hunter-and-diving-bird-in-columned-pond-scene.png",
+        "webp": "webp/128/hairy-hunter-and-diving-bird-in-columned-pond-scene.webp",
+        "width": 128,
+        "height": 43,
+        "png_bytes": 14005,
+        "webp_bytes": 11774
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/hairy-hunter-and-diving-bird-in-columned-pond-scene.png",
+        "webp": "webp/256/hairy-hunter-and-diving-bird-in-columned-pond-scene.webp",
+        "width": 256,
+        "height": 86,
+        "png_bytes": 50651,
+        "webp_bytes": 39992
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/hairy-hunter-and-diving-bird-in-columned-pond-scene.png",
+        "webp": "webp/512/hairy-hunter-and-diving-bird-in-columned-pond-scene.webp",
+        "width": 512,
+        "height": 172,
+        "png_bytes": 182013,
+        "webp_bytes": 137740
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/hairy-hunter-and-diving-bird-in-columned-pond-scene.png",
+        "webp": "webp/768/hairy-hunter-and-diving-bird-in-columned-pond-scene.webp",
+        "width": 768,
+        "height": 258,
+        "png_bytes": 382337,
+        "webp_bytes": 286470
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+      "object_identifier": "2006.13.b",
+      "date": "c. 1500–1510",
+      "record_url": "https://clevelandart.org/art/2006.13.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete intrinsic painted pond/sky/vegetation and original sculpted column frame retained as one genuine original scene. The useful hunter with implement and bird are also separate illustrations. Exterior parchment, calendar text and unrelated floral page border are cleared. No hidden anatomy or structural frame is reconstructed.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2006-13-b-set",
+        "name": "Ape Fishing pond ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3538,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 2702,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Brown flared flower on a long horizontal green stem with three flowing leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "horizontal-brown-flower-with-long-green-leaves",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-b",
+    "png": "png/horizontal-brown-flower-with-long-green-leaves.png",
+    "webp": "webp/horizontal-brown-flower-with-long-green-leaves.webp",
+    "width": 2133,
+    "height": 253,
+    "png_bytes": 487572,
+    "webp_bytes": 371132,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/horizontal-brown-flower-with-long-green-leaves.png",
+        "webp": "webp/128/horizontal-brown-flower-with-long-green-leaves.webp",
+        "width": 128,
+        "height": 15,
+        "png_bytes": 3689,
+        "webp_bytes": 3610
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/horizontal-brown-flower-with-long-green-leaves.png",
+        "webp": "webp/256/horizontal-brown-flower-with-long-green-leaves.webp",
+        "width": 256,
+        "height": 30,
+        "png_bytes": 10979,
+        "webp_bytes": 10298
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/horizontal-brown-flower-with-long-green-leaves.png",
+        "webp": "webp/512/horizontal-brown-flower-with-long-green-leaves.webp",
+        "width": 512,
+        "height": 61,
+        "png_bytes": 36832,
+        "webp_bytes": 31744
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/horizontal-brown-flower-with-long-green-leaves.png",
+        "webp": "webp/768/horizontal-brown-flower-with-long-green-leaves.webp",
+        "width": 768,
+        "height": 91,
+        "png_bytes": 74871,
+        "webp_bytes": 61590
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)",
+      "object_identifier": "2006.15.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso) (cma-2006-15-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9018,
+      "height": 10773
+    },
+    "master_longest_dimension_cap": 2133,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A horizontal green pea pod with a curving stem and two broad leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "horizontal-pea-pod-with-two-leaves",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/horizontal-pea-pod-with-two-leaves.png",
+    "webp": "webp/horizontal-pea-pod-with-two-leaves.webp",
+    "width": 2098,
+    "height": 598,
+    "png_bytes": 1097035,
+    "webp_bytes": 771698,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/horizontal-pea-pod-with-two-leaves.png",
+        "webp": "webp/128/horizontal-pea-pod-with-two-leaves.webp",
+        "width": 128,
+        "height": 36,
+        "png_bytes": 7313,
+        "webp_bytes": 6498
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/horizontal-pea-pod-with-two-leaves.png",
+        "webp": "webp/256/horizontal-pea-pod-with-two-leaves.webp",
+        "width": 256,
+        "height": 73,
+        "png_bytes": 23864,
+        "webp_bytes": 19524
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/horizontal-pea-pod-with-two-leaves.png",
+        "webp": "webp/512/horizontal-pea-pod-with-two-leaves.webp",
+        "width": 512,
+        "height": 146,
+        "png_bytes": 83337,
+        "webp_bytes": 64128
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/horizontal-pea-pod-with-two-leaves.png",
+        "webp": "webp/768/horizontal-pea-pod-with-two-leaves.webp",
+        "width": 768,
+        "height": 219,
+        "png_bytes": 176269,
+        "webp_bytes": 133014
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 2098,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A brown and gold bird grotesque with a pale bearded human head, long curved neck, feathered body, tail and slim legs. Part of the Office of the Dead angel and devil set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "bird",
+      "person",
+      "grotesque",
+      "hybrid"
+    ],
+    "facing": "right",
+    "colors": [
+      "brown",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "name": "human-headed-bird",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-a",
+    "png": "png/human-headed-bird.png",
+    "webp": "webp/human-headed-bird.webp",
+    "width": 607,
+    "height": 575,
+    "png_bytes": 288430,
+    "webp_bytes": 194516,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/human-headed-bird.png",
+        "webp": "webp/128/human-headed-bird.webp",
+        "width": 128,
+        "height": 121,
+        "png_bytes": 19418,
+        "webp_bytes": 14740
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/human-headed-bird.png",
+        "webp": "webp/256/human-headed-bird.webp",
+        "width": 256,
+        "height": 243,
+        "png_bytes": 64220,
+        "webp_bytes": 44764
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/human-headed-bird.png",
+        "webp": "webp/512/human-headed-bird.webp",
+        "width": 512,
+        "height": 485,
+        "png_bytes": 218128,
+        "webp_bytes": 150626
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+      "object_identifier": "2005.206.a",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-a-set",
+        "name": "Office of the Dead angel and devil"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3635,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 607,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Bearded human-headed bird with a curved gold neck and brown gold-hatched wings and pointed tails. Part of the Office of the Dead dancing devils set.",
+    "categories": [
+      "fantasy"
+    ],
+    "subjects": [
+      "bird",
+      "head",
+      "wing",
+      "tail"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "human-headed-bird-with-curved-gold-neck-and-brown-wings",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-b",
+    "png": "png/human-headed-bird-with-curved-gold-neck-and-brown-wings.png",
+    "webp": "webp/human-headed-bird-with-curved-gold-neck-and-brown-wings.webp",
+    "width": 601,
+    "height": 469,
+    "png_bytes": 216592,
+    "webp_bytes": 131918,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/human-headed-bird-with-curved-gold-neck-and-brown-wings.png",
+        "webp": "webp/128/human-headed-bird-with-curved-gold-neck-and-brown-wings.webp",
+        "width": 128,
+        "height": 100,
+        "png_bytes": 17155,
+        "webp_bytes": 12984
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/human-headed-bird-with-curved-gold-neck-and-brown-wings.png",
+        "webp": "webp/256/human-headed-bird-with-curved-gold-neck-and-brown-wings.webp",
+        "width": 256,
+        "height": 200,
+        "png_bytes": 54224,
+        "webp_bytes": 39140
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/human-headed-bird-with-curved-gold-neck-and-brown-wings.png",
+        "webp": "webp/512/human-headed-bird-with-curved-gold-neck-and-brown-wings.webp",
+        "width": 512,
+        "height": 400,
+        "png_bytes": 171767,
+        "webp_bytes": 117632
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)",
+      "object_identifier": "2005.206.b",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-b-set",
+        "name": "Office of the Dead dancing devils"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3719,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 601,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A kneeling blue-robed angel with long green wings and a gold halo. Part of the Beffi Coronation frame set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "angel",
+      "wing",
+      "halo"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "green",
+      "gold",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "name": "kneeling-blue-robed-angel-with-long-green-wings",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1953-24",
+    "png": "png/kneeling-blue-robed-angel-with-long-green-wings.png",
+    "webp": "webp/kneeling-blue-robed-angel-with-long-green-wings.webp",
+    "width": 985,
+    "height": 1289,
+    "png_bytes": 1671695,
+    "webp_bytes": 1256682,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/kneeling-blue-robed-angel-with-long-green-wings.png",
+        "webp": "webp/128/kneeling-blue-robed-angel-with-long-green-wings.webp",
+        "width": 98,
+        "height": 128,
+        "png_bytes": 25961,
+        "webp_bytes": 20680
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/kneeling-blue-robed-angel-with-long-green-wings.png",
+        "webp": "webp/256/kneeling-blue-robed-angel-with-long-green-wings.webp",
+        "width": 196,
+        "height": 256,
+        "png_bytes": 86182,
+        "webp_bytes": 65882
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/kneeling-blue-robed-angel-with-long-green-wings.png",
+        "webp": "webp/512/kneeling-blue-robed-angel-with-long-green-wings.webp",
+        "width": 391,
+        "height": 512,
+        "png_bytes": 298065,
+        "webp_bytes": 227832
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/kneeling-blue-robed-angel-with-long-green-wings.png",
+        "webp": "webp/768/kneeling-blue-robed-angel-with-long-green-wings.webp",
+        "width": 587,
+        "height": 768,
+        "png_bytes": 642454,
+        "webp_bytes": 486846
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from an Antiphonary: Coronation of the Virgin",
+      "object_identifier": "1953.24",
+      "date": "1400s",
+      "artist": "Master of the Beffi Triptych (Italian, active 1390–1425)",
+      "record_url": "https://clevelandart.org/art/1953.24",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "fad2ff0aae45fd22d3d36c015cd0c4f75c0f59fa1863d74927aea79a725b0b6f",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1953.24/1953.24_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-1953-24-set",
+        "name": "Beffi Coronation frame"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4595,
+      "height": 6459
+    },
+    "master_longest_dimension_cap": 1289,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A kneeling green-robed angel with long pointed wings and a gold halo. Part of the Beffi Coronation frame set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "angel",
+      "wing",
+      "halo"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "gold",
+      "cream",
+      "blue"
+    ],
+    "composition": "single-figure",
+    "name": "kneeling-green-robed-angel-with-long-green-wings",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1953-24",
+    "png": "png/kneeling-green-robed-angel-with-long-green-wings.png",
+    "webp": "webp/kneeling-green-robed-angel-with-long-green-wings.webp",
+    "width": 1109,
+    "height": 1293,
+    "png_bytes": 1910971,
+    "webp_bytes": 1316076,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/kneeling-green-robed-angel-with-long-green-wings.png",
+        "webp": "webp/128/kneeling-green-robed-angel-with-long-green-wings.webp",
+        "width": 110,
+        "height": 128,
+        "png_bytes": 27637,
+        "webp_bytes": 21236
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/kneeling-green-robed-angel-with-long-green-wings.png",
+        "webp": "webp/256/kneeling-green-robed-angel-with-long-green-wings.webp",
+        "width": 220,
+        "height": 256,
+        "png_bytes": 94921,
+        "webp_bytes": 70478
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/kneeling-green-robed-angel-with-long-green-wings.png",
+        "webp": "webp/512/kneeling-green-robed-angel-with-long-green-wings.webp",
+        "width": 439,
+        "height": 512,
+        "png_bytes": 339042,
+        "webp_bytes": 241764
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/kneeling-green-robed-angel-with-long-green-wings.png",
+        "webp": "webp/768/kneeling-green-robed-angel-with-long-green-wings.webp",
+        "width": 659,
+        "height": 768,
+        "png_bytes": 733371,
+        "webp_bytes": 511740
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from an Antiphonary: Coronation of the Virgin",
+      "object_identifier": "1953.24",
+      "date": "1400s",
+      "artist": "Master of the Beffi Triptych (Italian, active 1390–1425)",
+      "record_url": "https://clevelandart.org/art/1953.24",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "fad2ff0aae45fd22d3d36c015cd0c4f75c0f59fa1863d74927aea79a725b0b6f",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1953.24/1953.24_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-1953-24-set",
+        "name": "Beffi Coronation frame"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4595,
+      "height": 6459
+    },
+    "master_longest_dimension_cap": 1293,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tan-robed man with a red hat and raised hands, retaining his source-visible half figure. Part of the Latin Bible Paul and foliate initials set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "man",
+      "hat"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "tan",
+      "red",
+      "cream",
+      "brown"
+    ],
+    "composition": "single-figure",
+    "name": "left-tan-robed-man-visible-half-figure",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-53",
+    "png": "png/left-tan-robed-man-visible-half-figure.png",
+    "webp": "webp/left-tan-robed-man-visible-half-figure.webp",
+    "width": 259,
+    "height": 460,
+    "png_bytes": 159168,
+    "webp_bytes": 107532,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/left-tan-robed-man-visible-half-figure.png",
+        "webp": "webp/128/left-tan-robed-man-visible-half-figure.webp",
+        "width": 72,
+        "height": 128,
+        "png_bytes": 15700,
+        "webp_bytes": 12552
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/left-tan-robed-man-visible-half-figure.png",
+        "webp": "webp/256/left-tan-robed-man-visible-half-figure.webp",
+        "width": 144,
+        "height": 256,
+        "png_bytes": 54120,
+        "webp_bytes": 38862
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+      "object_identifier": "2011.53",
+      "date": "c. 1230–40",
+      "artist": "William de Brailes (English, active c. 1230)",
+      "record_url": "https://clevelandart.org/art/2011.53",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2011-53-set",
+        "name": "Latin Bible Paul and foliate initials"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5219,
+      "height": 7176
+    },
+    "master_longest_dimension_cap": 460,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A pale-robed figure touching the head of a kneeling blue and red figure. Part of the Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul (cma-2003-171) set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "man",
+      "woman"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "cream",
+      "orange"
+    ],
+    "composition": "multiple-figures",
+    "name": "lower-left-pair-of-contacting-figures",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2003-171",
+    "png": "png/lower-left-pair-of-contacting-figures.png",
+    "webp": "webp/lower-left-pair-of-contacting-figures.webp",
+    "width": 695,
+    "height": 706,
+    "png_bytes": 581157,
+    "webp_bytes": 407440,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/lower-left-pair-of-contacting-figures.png",
+        "webp": "webp/128/lower-left-pair-of-contacting-figures.webp",
+        "width": 126,
+        "height": 128,
+        "png_bytes": 26989,
+        "webp_bytes": 20008
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/lower-left-pair-of-contacting-figures.png",
+        "webp": "webp/256/lower-left-pair-of-contacting-figures.webp",
+        "width": 252,
+        "height": 256,
+        "png_bytes": 91642,
+        "webp_bytes": 65732
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/lower-left-pair-of-contacting-figures.png",
+        "webp": "webp/512/lower-left-pair-of-contacting-figures.webp",
+        "width": 504,
+        "height": 512,
+        "png_bytes": 324135,
+        "webp_bytes": 229498
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul",
+      "object_identifier": "2003.171",
+      "date": "c. 1325",
+      "record_url": "https://clevelandart.org/art/2003.171",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2003-171-set",
+        "name": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul (cma-2003-171)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5335,
+      "height": 7684
+    },
+    "master_longest_dimension_cap": 706,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two contacting figures with blue red robes and orange stockings. Part of the Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul (cma-2003-171) set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "man",
+      "woman"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "orange",
+      "cream"
+    ],
+    "composition": "multiple-figures",
+    "name": "lower-right-pair-of-contacting-figures",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2003-171",
+    "png": "png/lower-right-pair-of-contacting-figures.png",
+    "webp": "webp/lower-right-pair-of-contacting-figures.webp",
+    "width": 678,
+    "height": 817,
+    "png_bytes": 795852,
+    "webp_bytes": 587926,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/lower-right-pair-of-contacting-figures.png",
+        "webp": "webp/128/lower-right-pair-of-contacting-figures.webp",
+        "width": 106,
+        "height": 128,
+        "png_bytes": 26416,
+        "webp_bytes": 22258
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/lower-right-pair-of-contacting-figures.png",
+        "webp": "webp/256/lower-right-pair-of-contacting-figures.webp",
+        "width": 212,
+        "height": 256,
+        "png_bytes": 91916,
+        "webp_bytes": 69712
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/lower-right-pair-of-contacting-figures.png",
+        "webp": "webp/512/lower-right-pair-of-contacting-figures.webp",
+        "width": 425,
+        "height": 512,
+        "png_bytes": 331762,
+        "webp_bytes": 248684
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/lower-right-pair-of-contacting-figures.png",
+        "webp": "webp/768/lower-right-pair-of-contacting-figures.webp",
+        "width": 637,
+        "height": 768,
+        "png_bytes": 707577,
+        "webp_bytes": 529058
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul",
+      "object_identifier": "2003.171",
+      "date": "c. 1325",
+      "record_url": "https://clevelandart.org/art/2003.171",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2003-171-set",
+        "name": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul (cma-2003-171)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5335,
+      "height": 7684
+    },
+    "master_longest_dimension_cap": 817,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Pale yellow daisy with red center on a green leaf scroll. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "yellow",
+      "cream",
+      "red",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "pale-yellow-daisy-on-lobed-green-leaf-scroll",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-b",
+    "png": "png/pale-yellow-daisy-on-lobed-green-leaf-scroll.png",
+    "webp": "webp/pale-yellow-daisy-on-lobed-green-leaf-scroll.webp",
+    "width": 1756,
+    "height": 841,
+    "png_bytes": 1621467,
+    "webp_bytes": 1150106,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/pale-yellow-daisy-on-lobed-green-leaf-scroll.png",
+        "webp": "webp/128/pale-yellow-daisy-on-lobed-green-leaf-scroll.webp",
+        "width": 128,
+        "height": 61,
+        "png_bytes": 16163,
+        "webp_bytes": 13300
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/pale-yellow-daisy-on-lobed-green-leaf-scroll.png",
+        "webp": "webp/256/pale-yellow-daisy-on-lobed-green-leaf-scroll.webp",
+        "width": 256,
+        "height": 123,
+        "png_bytes": 51982,
+        "webp_bytes": 40958
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/pale-yellow-daisy-on-lobed-green-leaf-scroll.png",
+        "webp": "webp/512/pale-yellow-daisy-on-lobed-green-leaf-scroll.webp",
+        "width": 512,
+        "height": 245,
+        "png_bytes": 173838,
+        "webp_bytes": 130336
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/pale-yellow-daisy-on-lobed-green-leaf-scroll.png",
+        "webp": "webp/768/pale-yellow-daisy-on-lobed-green-leaf-scroll.webp",
+        "width": 768,
+        "height": 368,
+        "png_bytes": 362704,
+        "webp_bytes": 269052
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)",
+      "object_identifier": "2006.15.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso) (cma-2006-15-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9018,
+      "height": 10773
+    },
+    "master_longest_dimension_cap": 1756,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Pale yellow round flower with curled green center and long leafy stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "yellow",
+      "cream",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "pale-yellow-flower-with-long-green-leaf-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-b",
+    "png": "png/pale-yellow-flower-with-long-green-leaf-stem.png",
+    "webp": "webp/pale-yellow-flower-with-long-green-leaf-stem.webp",
+    "width": 748,
+    "height": 1975,
+    "png_bytes": 1655504,
+    "webp_bytes": 1194410,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/pale-yellow-flower-with-long-green-leaf-stem.png",
+        "webp": "webp/128/pale-yellow-flower-with-long-green-leaf-stem.webp",
+        "width": 48,
+        "height": 128,
+        "png_bytes": 13730,
+        "webp_bytes": 11186
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/pale-yellow-flower-with-long-green-leaf-stem.png",
+        "webp": "webp/256/pale-yellow-flower-with-long-green-leaf-stem.webp",
+        "width": 97,
+        "height": 256,
+        "png_bytes": 44427,
+        "webp_bytes": 36834
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/pale-yellow-flower-with-long-green-leaf-stem.png",
+        "webp": "webp/512/pale-yellow-flower-with-long-green-leaf-stem.webp",
+        "width": 194,
+        "height": 512,
+        "png_bytes": 147273,
+        "webp_bytes": 113486
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/pale-yellow-flower-with-long-green-leaf-stem.png",
+        "webp": "webp/768/pale-yellow-flower-with-long-green-leaf-stem.webp",
+        "width": 291,
+        "height": 768,
+        "png_bytes": 301629,
+        "webp_bytes": 230856
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)",
+      "object_identifier": "2006.15.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso) (cma-2006-15-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9018,
+      "height": 10773
+    },
+    "master_longest_dimension_cap": 1975,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An upright pink and blue flower on a curved green stem with two leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "pink-and-blue-upright-flower-on-curving-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/pink-and-blue-upright-flower-on-curving-stem.png",
+    "webp": "webp/pink-and-blue-upright-flower-on-curving-stem.webp",
+    "width": 686,
+    "height": 1872,
+    "png_bytes": 1221745,
+    "webp_bytes": 871128,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/pink-and-blue-upright-flower-on-curving-stem.png",
+        "webp": "webp/128/pink-and-blue-upright-flower-on-curving-stem.webp",
+        "width": 47,
+        "height": 128,
+        "png_bytes": 10304,
+        "webp_bytes": 9202
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/pink-and-blue-upright-flower-on-curving-stem.png",
+        "webp": "webp/256/pink-and-blue-upright-flower-on-curving-stem.webp",
+        "width": 94,
+        "height": 256,
+        "png_bytes": 32704,
+        "webp_bytes": 25786
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/pink-and-blue-upright-flower-on-curving-stem.png",
+        "webp": "webp/512/pink-and-blue-upright-flower-on-curving-stem.webp",
+        "width": 188,
+        "height": 512,
+        "png_bytes": 113397,
+        "webp_bytes": 85552
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/pink-and-blue-upright-flower-on-curving-stem.png",
+        "webp": "webp/768/pink-and-blue-upright-flower-on-curving-stem.webp",
+        "width": 281,
+        "height": 768,
+        "png_bytes": 240849,
+        "webp_bytes": 178142
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 1872,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A pointed blue and red flower on a long green stem with two lower leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "pointed-blue-red-flower-with-long-green-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/pointed-blue-red-flower-with-long-green-stem.png",
+    "webp": "webp/pointed-blue-red-flower-with-long-green-stem.webp",
+    "width": 505,
+    "height": 2078,
+    "png_bytes": 1069895,
+    "webp_bytes": 776020,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/pointed-blue-red-flower-with-long-green-stem.png",
+        "webp": "webp/128/pointed-blue-red-flower-with-long-green-stem.webp",
+        "width": 31,
+        "height": 128,
+        "png_bytes": 7468,
+        "webp_bytes": 6798
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/pointed-blue-red-flower-with-long-green-stem.png",
+        "webp": "webp/256/pointed-blue-red-flower-with-long-green-stem.webp",
+        "width": 62,
+        "height": 256,
+        "png_bytes": 23769,
+        "webp_bytes": 22288
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/pointed-blue-red-flower-with-long-green-stem.png",
+        "webp": "webp/512/pointed-blue-red-flower-with-long-green-stem.webp",
+        "width": 124,
+        "height": 512,
+        "png_bytes": 81278,
+        "webp_bytes": 63608
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/pointed-blue-red-flower-with-long-green-stem.png",
+        "webp": "webp/768/pointed-blue-red-flower-with-long-green-stem.webp",
+        "width": 187,
+        "height": 768,
+        "png_bytes": 172631,
+        "webp_bytes": 130390
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 2078,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Red scalloped flower with two long green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "green",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "red-scalloped-flower-on-long-green-leaves",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-b",
+    "png": "png/red-scalloped-flower-on-long-green-leaves.png",
+    "webp": "webp/red-scalloped-flower-on-long-green-leaves.webp",
+    "width": 1832,
+    "height": 841,
+    "png_bytes": 1856376,
+    "webp_bytes": 1359842,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/red-scalloped-flower-on-long-green-leaves.png",
+        "webp": "webp/128/red-scalloped-flower-on-long-green-leaves.webp",
+        "width": 128,
+        "height": 59,
+        "png_bytes": 15510,
+        "webp_bytes": 12778
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/red-scalloped-flower-on-long-green-leaves.png",
+        "webp": "webp/256/red-scalloped-flower-on-long-green-leaves.webp",
+        "width": 256,
+        "height": 118,
+        "png_bytes": 52282,
+        "webp_bytes": 40946
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/red-scalloped-flower-on-long-green-leaves.png",
+        "webp": "webp/512/red-scalloped-flower-on-long-green-leaves.webp",
+        "width": 512,
+        "height": 235,
+        "png_bytes": 180194,
+        "webp_bytes": 136684
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/red-scalloped-flower-on-long-green-leaves.png",
+        "webp": "webp/768/red-scalloped-flower-on-long-green-leaves.webp",
+        "width": 768,
+        "height": 353,
+        "png_bytes": 379331,
+        "webp_bytes": 288512
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)",
+      "object_identifier": "2006.15.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso) (cma-2006-15-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9018,
+      "height": 10773
+    },
+    "master_longest_dimension_cap": 1832,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A blue and red robed man raising his hand, retaining his source-visible half figure. Part of the Latin Bible Paul and foliate initials set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "man",
+      "hat"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "tan",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "name": "right-blue-red-robed-man-visible-half-figure",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-53",
+    "png": "png/right-blue-red-robed-man-visible-half-figure.png",
+    "webp": "webp/right-blue-red-robed-man-visible-half-figure.webp",
+    "width": 212,
+    "height": 405,
+    "png_bytes": 153493,
+    "webp_bytes": 108914,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/right-blue-red-robed-man-visible-half-figure.png",
+        "webp": "webp/128/right-blue-red-robed-man-visible-half-figure.webp",
+        "width": 67,
+        "height": 128,
+        "png_bytes": 18399,
+        "webp_bytes": 14336
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/right-blue-red-robed-man-visible-half-figure.png",
+        "webp": "webp/256/right-blue-red-robed-man-visible-half-figure.webp",
+        "width": 134,
+        "height": 256,
+        "png_bytes": 65215,
+        "webp_bytes": 48830
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+      "object_identifier": "2011.53",
+      "date": "c. 1230–40",
+      "artist": "William de Brailes (English, active c. 1230)",
+      "record_url": "https://clevelandart.org/art/2011.53",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2011-53-set",
+        "name": "Latin Bible Paul and foliate initials"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5219,
+      "height": 7176
+    },
+    "master_longest_dimension_cap": 405,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Saint Paul holding a sword and a book, retaining his visible waist-length figure. Part of the Latin Bible Paul and foliate initials set.",
+    "categories": [
+      "humans",
+      "reading"
+    ],
+    "subjects": [
+      "saint",
+      "sword",
+      "book",
+      "halo"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "tan",
+      "gold",
+      "gray"
+    ],
+    "composition": "single-figure",
+    "name": "saint-paul-visible-bust-with-sword-and-book",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-53",
+    "png": "png/saint-paul-visible-bust-with-sword-and-book.png",
+    "webp": "webp/saint-paul-visible-bust-with-sword-and-book.webp",
+    "width": 363,
+    "height": 482,
+    "png_bytes": 280456,
+    "webp_bytes": 199292,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/saint-paul-visible-bust-with-sword-and-book.png",
+        "webp": "webp/128/saint-paul-visible-bust-with-sword-and-book.webp",
+        "width": 96,
+        "height": 128,
+        "png_bytes": 24493,
+        "webp_bytes": 18802
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/saint-paul-visible-bust-with-sword-and-book.png",
+        "webp": "webp/256/saint-paul-visible-bust-with-sword-and-book.webp",
+        "width": 193,
+        "height": 256,
+        "png_bytes": 86791,
+        "webp_bytes": 63952
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+      "object_identifier": "2011.53",
+      "date": "c. 1230–40",
+      "artist": "William de Brailes (English, active c. 1230)",
+      "record_url": "https://clevelandart.org/art/2011.53",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2011-53-set",
+        "name": "Latin Bible Paul and foliate initials"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5219,
+      "height": 7176
+    },
+    "master_longest_dimension_cap": 482,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Saint Paul holding a long sword and a book. Part of the Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul (cma-2003-171) set.",
+    "categories": [
+      "humans",
+      "reading"
+    ],
+    "subjects": [
+      "saint",
+      "sword",
+      "book",
+      "halo"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "cream",
+      "gold",
+      "gray"
+    ],
+    "composition": "single-figure",
+    "name": "saint-paul-with-long-sword-and-book",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2003-171",
+    "png": "png/saint-paul-with-long-sword-and-book.png",
+    "webp": "webp/saint-paul-with-long-sword-and-book.webp",
+    "width": 361,
+    "height": 957,
+    "png_bytes": 548148,
+    "webp_bytes": 373510,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/saint-paul-with-long-sword-and-book.png",
+        "webp": "webp/128/saint-paul-with-long-sword-and-book.webp",
+        "width": 48,
+        "height": 128,
+        "png_bytes": 14765,
+        "webp_bytes": 11190
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/saint-paul-with-long-sword-and-book.png",
+        "webp": "webp/256/saint-paul-with-long-sword-and-book.webp",
+        "width": 97,
+        "height": 256,
+        "png_bytes": 51058,
+        "webp_bytes": 36010
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/saint-paul-with-long-sword-and-book.png",
+        "webp": "webp/512/saint-paul-with-long-sword-and-book.webp",
+        "width": 193,
+        "height": 512,
+        "png_bytes": 175007,
+        "webp_bytes": 120160
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/saint-paul-with-long-sword-and-book.png",
+        "webp": "webp/768/saint-paul-with-long-sword-and-book.webp",
+        "width": 290,
+        "height": 768,
+        "png_bytes": 368647,
+        "webp_bytes": 255218
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul",
+      "object_identifier": "2003.171",
+      "date": "c. 1325",
+      "record_url": "https://clevelandart.org/art/2003.171",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2003-171-set",
+        "name": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul (cma-2003-171)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5335,
+      "height": 7684
+    },
+    "master_longest_dimension_cap": 957,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Saint Peter holding a large key and raising his other hand. Part of the Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul (cma-2003-171) set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "saint",
+      "key",
+      "halo"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "cream",
+      "gold",
+      "gray"
+    ],
+    "composition": "single-figure",
+    "name": "saint-peter-with-large-key",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2003-171",
+    "png": "png/saint-peter-with-large-key.png",
+    "webp": "webp/saint-peter-with-large-key.webp",
+    "width": 413,
+    "height": 962,
+    "png_bytes": 664496,
+    "webp_bytes": 466904,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/saint-peter-with-large-key.png",
+        "webp": "webp/128/saint-peter-with-large-key.webp",
+        "width": 55,
+        "height": 128,
+        "png_bytes": 17197,
+        "webp_bytes": 12862
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/saint-peter-with-large-key.png",
+        "webp": "webp/256/saint-peter-with-large-key.webp",
+        "width": 110,
+        "height": 256,
+        "png_bytes": 59985,
+        "webp_bytes": 43948
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/saint-peter-with-large-key.png",
+        "webp": "webp/512/saint-peter-with-large-key.webp",
+        "width": 220,
+        "height": 512,
+        "png_bytes": 209242,
+        "webp_bytes": 148514
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/saint-peter-with-large-key.png",
+        "webp": "webp/768/saint-peter-with-large-key.webp",
+        "width": 330,
+        "height": 768,
+        "png_bytes": 442614,
+        "webp_bytes": 313756
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul",
+      "object_identifier": "2003.171",
+      "date": "c. 1325",
+      "record_url": "https://clevelandart.org/art/2003.171",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2003-171-set",
+        "name": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul (cma-2003-171)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5335,
+      "height": 7684
+    },
+    "master_longest_dimension_cap": 962,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small seated reddish brown squirrel with a bushy upright tail. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "squirrel"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "green",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "seated-red-squirrel-with-bushy-tail",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-b",
+    "png": "png/seated-red-squirrel-with-bushy-tail.png",
+    "webp": "webp/seated-red-squirrel-with-bushy-tail.webp",
+    "width": 970,
+    "height": 1524,
+    "png_bytes": 2094263,
+    "webp_bytes": 1408808,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/seated-red-squirrel-with-bushy-tail.png",
+        "webp": "webp/128/seated-red-squirrel-with-bushy-tail.webp",
+        "width": 81,
+        "height": 128,
+        "png_bytes": 21331,
+        "webp_bytes": 17292
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/seated-red-squirrel-with-bushy-tail.png",
+        "webp": "webp/256/seated-red-squirrel-with-bushy-tail.webp",
+        "width": 163,
+        "height": 256,
+        "png_bytes": 77367,
+        "webp_bytes": 56756
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/seated-red-squirrel-with-bushy-tail.png",
+        "webp": "webp/512/seated-red-squirrel-with-bushy-tail.webp",
+        "width": 326,
+        "height": 512,
+        "png_bytes": 280772,
+        "webp_bytes": 198254
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/seated-red-squirrel-with-bushy-tail.png",
+        "webp": "webp/768/seated-red-squirrel-with-bushy-tail.webp",
+        "width": 489,
+        "height": 768,
+        "png_bytes": 600398,
+        "webp_bytes": 423396
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)",
+      "object_identifier": "2006.15.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso) (cma-2006-15-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9018,
+      "height": 10773
+    },
+    "master_longest_dimension_cap": 1524,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small brown rounded flower on a long stem with green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "green",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "small-brown-round-flower-on-leafy-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-b",
+    "png": "png/small-brown-round-flower-on-leafy-stem.png",
+    "webp": "webp/small-brown-round-flower-on-leafy-stem.webp",
+    "width": 580,
+    "height": 2126,
+    "png_bytes": 1028227,
+    "webp_bytes": 727124,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/small-brown-round-flower-on-leafy-stem.png",
+        "webp": "webp/128/small-brown-round-flower-on-leafy-stem.webp",
+        "width": 35,
+        "height": 128,
+        "png_bytes": 7372,
+        "webp_bytes": 6316
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/small-brown-round-flower-on-leafy-stem.png",
+        "webp": "webp/256/small-brown-round-flower-on-leafy-stem.webp",
+        "width": 70,
+        "height": 256,
+        "png_bytes": 22972,
+        "webp_bytes": 20090
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/small-brown-round-flower-on-leafy-stem.png",
+        "webp": "webp/512/small-brown-round-flower-on-leafy-stem.webp",
+        "width": 140,
+        "height": 512,
+        "png_bytes": 78161,
+        "webp_bytes": 59162
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/small-brown-round-flower-on-leafy-stem.png",
+        "webp": "webp/768/small-brown-round-flower-on-leafy-stem.webp",
+        "width": 210,
+        "height": 768,
+        "png_bytes": 163555,
+        "webp_bytes": 119562
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)",
+      "object_identifier": "2006.15.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso) (cma-2006-15-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9018,
+      "height": 10773
+    },
+    "master_longest_dimension_cap": 2126,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Faded gray tan flower with two green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "tan",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "small-faded-gray-flower-on-green-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-b",
+    "png": "png/small-faded-gray-flower-on-green-stem.png",
+    "webp": "webp/small-faded-gray-flower-on-green-stem.webp",
+    "width": 612,
+    "height": 1758,
+    "png_bytes": 1035477,
+    "webp_bytes": 719812,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/small-faded-gray-flower-on-green-stem.png",
+        "webp": "webp/128/small-faded-gray-flower-on-green-stem.webp",
+        "width": 45,
+        "height": 128,
+        "png_bytes": 10158,
+        "webp_bytes": 8366
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/small-faded-gray-flower-on-green-stem.png",
+        "webp": "webp/256/small-faded-gray-flower-on-green-stem.webp",
+        "width": 89,
+        "height": 256,
+        "png_bytes": 32033,
+        "webp_bytes": 24912
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/small-faded-gray-flower-on-green-stem.png",
+        "webp": "webp/512/small-faded-gray-flower-on-green-stem.webp",
+        "width": 178,
+        "height": 512,
+        "png_bytes": 109997,
+        "webp_bytes": 80664
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/small-faded-gray-flower-on-green-stem.png",
+        "webp": "webp/768/small-faded-gray-flower-on-green-stem.webp",
+        "width": 267,
+        "height": 768,
+        "png_bytes": 231128,
+        "webp_bytes": 165860
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)",
+      "object_identifier": "2006.15.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso) (cma-2006-15-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9018,
+      "height": 10773
+    },
+    "master_longest_dimension_cap": 1758,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small gray bird with a narrow beak and long tail. Part of the Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul (cma-2003-171) set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "bird"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "black"
+    ],
+    "composition": "single-figure",
+    "name": "small-gray-bird-with-long-tail",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2003-171",
+    "png": "png/small-gray-bird-with-long-tail.png",
+    "webp": "webp/small-gray-bird-with-long-tail.webp",
+    "width": 315,
+    "height": 532,
+    "png_bytes": 179112,
+    "webp_bytes": 116788,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/small-gray-bird-with-long-tail.png",
+        "webp": "webp/128/small-gray-bird-with-long-tail.webp",
+        "width": 76,
+        "height": 128,
+        "png_bytes": 14327,
+        "webp_bytes": 9922
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/small-gray-bird-with-long-tail.png",
+        "webp": "webp/256/small-gray-bird-with-long-tail.webp",
+        "width": 152,
+        "height": 256,
+        "png_bytes": 47605,
+        "webp_bytes": 33756
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/small-gray-bird-with-long-tail.png",
+        "webp": "webp/512/small-gray-bird-with-long-tail.webp",
+        "width": 303,
+        "height": 512,
+        "png_bytes": 168031,
+        "webp_bytes": 110810
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul",
+      "object_identifier": "2003.171",
+      "date": "c. 1325",
+      "record_url": "https://clevelandart.org/art/2003.171",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2003-171-set",
+        "name": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul (cma-2003-171)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5335,
+      "height": 7684
+    },
+    "master_longest_dimension_cap": 532,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small hanging red bud on a long curved horizontal green stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "bud",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "green",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "small-red-bud-on-long-horizontal-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/small-red-bud-on-long-horizontal-stem.png",
+    "webp": "webp/small-red-bud-on-long-horizontal-stem.webp",
+    "width": 1143,
+    "height": 601,
+    "png_bytes": 571347,
+    "webp_bytes": 413478,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/small-red-bud-on-long-horizontal-stem.png",
+        "webp": "webp/128/small-red-bud-on-long-horizontal-stem.webp",
+        "width": 128,
+        "height": 67,
+        "png_bytes": 10899,
+        "webp_bytes": 9864
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/small-red-bud-on-long-horizontal-stem.png",
+        "webp": "webp/256/small-red-bud-on-long-horizontal-stem.webp",
+        "width": 256,
+        "height": 135,
+        "png_bytes": 36465,
+        "webp_bytes": 29656
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/small-red-bud-on-long-horizontal-stem.png",
+        "webp": "webp/512/small-red-bud-on-long-horizontal-stem.webp",
+        "width": 512,
+        "height": 269,
+        "png_bytes": 127915,
+        "webp_bytes": 97146
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/small-red-bud-on-long-horizontal-stem.png",
+        "webp": "webp/768/small-red-bud-on-long-horizontal-stem.webp",
+        "width": 768,
+        "height": 404,
+        "png_bytes": 273131,
+        "webp_bytes": 205944
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original botanical entity from the lower border. Expanded original input includes complete source-visible contours; no invented overlap-hidden parts. AI-assisted extraction with exact prompt, native bounds/cap and source retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 1143,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small upright red bud with green sepals and a long pointed stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "small-upright-red-bud-with-long-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/small-upright-red-bud-with-long-stem.png",
+    "webp": "webp/small-upright-red-bud-with-long-stem.webp",
+    "width": 425,
+    "height": 1163,
+    "png_bytes": 536144,
+    "webp_bytes": 387528,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/small-upright-red-bud-with-long-stem.png",
+        "webp": "webp/128/small-upright-red-bud-with-long-stem.webp",
+        "width": 47,
+        "height": 128,
+        "png_bytes": 10080,
+        "webp_bytes": 8792
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/small-upright-red-bud-with-long-stem.png",
+        "webp": "webp/256/small-upright-red-bud-with-long-stem.webp",
+        "width": 94,
+        "height": 256,
+        "png_bytes": 33465,
+        "webp_bytes": 26610
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/small-upright-red-bud-with-long-stem.png",
+        "webp": "webp/512/small-upright-red-bud-with-long-stem.webp",
+        "width": 187,
+        "height": 512,
+        "png_bytes": 117038,
+        "webp_bytes": 89036
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/small-upright-red-bud-with-long-stem.png",
+        "webp": "webp/768/small-upright-red-bud-with-long-stem.webp",
+        "width": 281,
+        "height": 768,
+        "png_bytes": 249968,
+        "webp_bytes": 186358
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 1163,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two black horned dancing figures with gold hatching, raised hands and touching feet. Part of the Office of the Dead dancing devils set.",
+    "categories": [
+      "fantasy"
+    ],
+    "subjects": [
+      "figure",
+      "horn",
+      "hand",
+      "foot"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "two-dancing-black-horned-figures-with-touching-feet",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-b",
+    "png": "png/two-dancing-black-horned-figures-with-touching-feet.png",
+    "webp": "webp/two-dancing-black-horned-figures-with-touching-feet.webp",
+    "width": 607,
+    "height": 672,
+    "png_bytes": 260399,
+    "webp_bytes": 167616,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/two-dancing-black-horned-figures-with-touching-feet.png",
+        "webp": "webp/128/two-dancing-black-horned-figures-with-touching-feet.webp",
+        "width": 116,
+        "height": 128,
+        "png_bytes": 18634,
+        "webp_bytes": 14572
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/two-dancing-black-horned-figures-with-touching-feet.png",
+        "webp": "webp/256/two-dancing-black-horned-figures-with-touching-feet.webp",
+        "width": 231,
+        "height": 256,
+        "png_bytes": 55548,
+        "webp_bytes": 41434
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/two-dancing-black-horned-figures-with-touching-feet.png",
+        "webp": "webp/512/two-dancing-black-horned-figures-with-touching-feet.webp",
+        "width": 462,
+        "height": 512,
+        "png_bytes": 173895,
+        "webp_bytes": 127874
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)",
+      "object_identifier": "2005.206.b",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-b-set",
+        "name": "Office of the Dead dancing devils"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3719,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 672,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two contacting dancing black horned figures in their original gold-edged oval landscape, with blue sky, green trees and ground. Part of the Office of the Dead dancing devils set.",
+    "categories": [
+      "humans",
+      "animals"
+    ],
+    "subjects": [
+      "devil",
+      "landscape",
+      "tree"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "green",
+      "black"
+    ],
+    "composition": "framed-scene",
+    "name": "two-dancing-devils-in-gold-landscape-oval",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-b",
+    "png": "png/two-dancing-devils-in-gold-landscape-oval.png",
+    "webp": "webp/two-dancing-devils-in-gold-landscape-oval.webp",
+    "width": 870,
+    "height": 855,
+    "png_bytes": 902882,
+    "webp_bytes": 549784,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/two-dancing-devils-in-gold-landscape-oval.png",
+        "webp": "webp/128/two-dancing-devils-in-gold-landscape-oval.webp",
+        "width": 128,
+        "height": 126,
+        "png_bytes": 33657,
+        "webp_bytes": 25848
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/two-dancing-devils-in-gold-landscape-oval.png",
+        "webp": "webp/256/two-dancing-devils-in-gold-landscape-oval.webp",
+        "width": 256,
+        "height": 252,
+        "png_bytes": 115833,
+        "webp_bytes": 86834
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/two-dancing-devils-in-gold-landscape-oval.png",
+        "webp": "webp/512/two-dancing-devils-in-gold-landscape-oval.webp",
+        "width": 512,
+        "height": 503,
+        "png_bytes": 375995,
+        "webp_bytes": 255728
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/two-dancing-devils-in-gold-landscape-oval.png",
+        "webp": "webp/768/two-dancing-devils-in-gold-landscape-oval.webp",
+        "width": 768,
+        "height": 755,
+        "png_bytes": 741853,
+        "webp_bytes": 489266
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)",
+      "object_identifier": "2005.206.b",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original gold-rimmed landscape oval, with its original lettering, sky, trees and ground. Both dancing figures contact at their feet and are also available as one transparent interacting group; no individual dancing figures split.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-b-set",
+        "name": "Office of the Dead dancing devils"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3719,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 870,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A short green stem carrying two opposite veined leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "composition": "standalone",
+    "name": "upper-left-paired-green-leaves",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/upper-left-paired-green-leaves.png",
+    "webp": "webp/upper-left-paired-green-leaves.webp",
+    "width": 595,
+    "height": 1229,
+    "png_bytes": 738077,
+    "webp_bytes": 537984,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upper-left-paired-green-leaves.png",
+        "webp": "webp/128/upper-left-paired-green-leaves.webp",
+        "width": 62,
+        "height": 128,
+        "png_bytes": 12390,
+        "webp_bytes": 10698
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upper-left-paired-green-leaves.png",
+        "webp": "webp/256/upper-left-paired-green-leaves.webp",
+        "width": 124,
+        "height": 256,
+        "png_bytes": 40611,
+        "webp_bytes": 32266
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/upper-left-paired-green-leaves.png",
+        "webp": "webp/512/upper-left-paired-green-leaves.webp",
+        "width": 248,
+        "height": 512,
+        "png_bytes": 145354,
+        "webp_bytes": 109166
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/upper-left-paired-green-leaves.png",
+        "webp": "webp/768/upper-left-paired-green-leaves.webp",
+        "width": 372,
+        "height": 768,
+        "png_bytes": 313612,
+        "webp_bytes": 234502
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent original foreground or intrinsic contacting scene. AI-assisted approximation; original native region, exact prompt and visible subject resolution cap retained. Gold page field is transparent; no letter forms included.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 1229,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Independent upright pair of green leaves with crossing short stems. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "upright-paired-green-leaves",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-b",
+    "png": "png/upright-paired-green-leaves.png",
+    "webp": "webp/upright-paired-green-leaves.webp",
+    "width": 506,
+    "height": 1721,
+    "png_bytes": 1007462,
+    "webp_bytes": 703128,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upright-paired-green-leaves.png",
+        "webp": "webp/128/upright-paired-green-leaves.webp",
+        "width": 38,
+        "height": 128,
+        "png_bytes": 9827,
+        "webp_bytes": 8376
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upright-paired-green-leaves.png",
+        "webp": "webp/256/upright-paired-green-leaves.webp",
+        "width": 75,
+        "height": 256,
+        "png_bytes": 31091,
+        "webp_bytes": 26188
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/upright-paired-green-leaves.png",
+        "webp": "webp/512/upright-paired-green-leaves.webp",
+        "width": 151,
+        "height": 512,
+        "png_bytes": 107919,
+        "webp_bytes": 81922
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/upright-paired-green-leaves.png",
+        "webp": "webp/768/upright-paired-green-leaves.webp",
+        "width": 226,
+        "height": 768,
+        "png_bytes": 229124,
+        "webp_bytes": 165578
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)",
+      "object_identifier": "2006.15.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso) (cma-2006-15-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9018,
+      "height": 10773
+    },
+    "master_longest_dimension_cap": 1721,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A white-robed angel with red-brown pointed wings and a gold halo holds a thin diagonal gold staff. Part of the Office of the Dead angel and devil set.",
+    "categories": [
+      "humans",
+      "fantasy"
+    ],
+    "subjects": [
+      "angel",
+      "wing",
+      "halo",
+      "staff"
+    ],
+    "facing": "right",
+    "colors": [
+      "white",
+      "red",
+      "brown",
+      "gold"
+    ],
+    "composition": "single-figure",
+    "name": "white-robed-winged-angel",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-a",
+    "png": "png/white-robed-winged-angel.png",
+    "webp": "webp/white-robed-winged-angel.webp",
+    "width": 516,
+    "height": 662,
+    "png_bytes": 196468,
+    "webp_bytes": 118738,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/white-robed-winged-angel.png",
+        "webp": "webp/128/white-robed-winged-angel.webp",
+        "width": 100,
+        "height": 128,
+        "png_bytes": 17901,
+        "webp_bytes": 13776
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/white-robed-winged-angel.png",
+        "webp": "webp/256/white-robed-winged-angel.webp",
+        "width": 200,
+        "height": 256,
+        "png_bytes": 52672,
+        "webp_bytes": 38354
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/white-robed-winged-angel.png",
+        "webp": "webp/512/white-robed-winged-angel.webp",
+        "width": 399,
+        "height": 512,
+        "png_bytes": 156434,
+        "webp_bytes": 103286
+      }
+    ],
+    "derivation": "ai-assisted-source-mask",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+      "object_identifier": "2005.206.a",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+      "method": "ai-assisted-source-mask",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-a-set",
+        "name": "Office of the Dead angel and devil"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3635,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 662,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
